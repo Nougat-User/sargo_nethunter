@@ -1,7 +1,6 @@
-# sargo_nethunter
+# sargo_nethunter (Tested on LineageOS 19.1)
 Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (Bonito/Sargo)
-## Tested on LineageOS 19.1
--------------------
+--------------
 
 * Flash .zip in lineageos-recovery as ADB Sideload Update
 
