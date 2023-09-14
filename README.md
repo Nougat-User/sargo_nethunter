@@ -15,3 +15,4 @@ Tested on LineageOS 19.1
 - Android Binder IPC
 - Ethernet adapthers
 - Low Memory Killer
+- Ultra-wideband dongles
