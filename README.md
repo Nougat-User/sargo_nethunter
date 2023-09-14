@@ -17,3 +17,11 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (B
 - Ethernet adapthers
 - Low Memory Killer
 - Ultra-wideband dongles
+
+# Screenshots
+* Working Prolific PL-2303 with PN532 for Mifare attacks
+  - ![nfc-list](https://github.com/Nougat-User/sargo_nethunter/blob/main/nfc-list.jpg?raw=true)
+* Working USB2Ethernet for sniff wired networks
+  - ![ifconfig](https://github.com/Nougat-User/sargo_nethunter/blob/main/ifconfig.jpg?raw=true)
+* Working many WLAN adapters for more fun
+  - ![airmon-ng](https://github.com/Nougat-User/sargo_nethunter/blob/main/airmon-ng.jpg?raw=true)
