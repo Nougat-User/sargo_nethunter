@@ -8,6 +8,7 @@ Tested on LineageOS 19.1
 # What works?
 - WireGuard
 - Packet injection
+- Internal monitoring mode (qcacld-3.0)
 - Wifi/BT adapters (exc. 88xxAU)
 - HID (exc. RNDIS)
 - SDR/DVB
