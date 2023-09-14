@@ -3,6 +3,7 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (B
 --------------
 
 * Flash .zip in lineageos-recovery as ADB Sideload Update
+* Flash the magisk module https://github.com/Magisk-Modules-Repo/wirelessFirmware
 
 # What works?
 - WireGuard
