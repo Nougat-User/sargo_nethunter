@@ -6,8 +6,8 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (B
 * Flash the magisk module with firmwares
 
 # What works?
-- WireGuard
-- Packet injection
+- Wireguard
+- Frames injection
 - Internal monitoring mode (qcacld-3.0)
 - Wifi/BT adapters (exc. 88xxAU)
 - HID
