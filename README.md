@@ -9,7 +9,7 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (S
 - Wireguard
 - Frames injection
 - Internal monitoring mode (qcacld-3.0)
-- Wifi/BT adapters (exc. 88xxAU)
+- Wifi/BT adapters
 - HID
 - SDR/DVB
 - USB Serial Converter (for pn532 attacks)
