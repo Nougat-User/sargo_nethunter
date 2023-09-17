@@ -17,6 +17,7 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (S
 - Ethernet adapters
 - Low Memory Killer
 - Ultra-wideband dongles
+- Loadable Module Support
 
 # Screenshots
 * Working Prolific PL-2303 with PN532 for Mifare attacks
