@@ -15,8 +15,7 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (S
 - USB Serial Converter (for pn532 attacks)
 - Android Binder IPC
 - Ethernet adapters
-- Low Memory Killer
-- Ultra-wideband dongles
+- BBR TCP by default
 - Loadable Module Support
 
 # Screenshots
