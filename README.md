@@ -26,3 +26,6 @@ Ready-compiled kernel with Kali Nethunter additions for Google Pixel 3A/3A XL (S
   - ![ifconfig](https://github.com/Nougat-User/sargo_nethunter/blob/main/ifconfig.jpg?raw=true)
 * Working many WLAN adapters for more fun
   - ![airmon-ng](https://github.com/Nougat-User/sargo_nethunter/blob/main/airmon-ng.jpg?raw=true)
+
+# Sources
+https://github.com/Nougat-User/nethunter_kernel_google_msm-4.9
